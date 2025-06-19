@@ -50,6 +50,7 @@ Monthly Charges by Subscription Type & Payment Method.
 
 Pie charts for service usage & churned customer segments.
 
-![Task 2-Dashboard(2)](https://github.com/user-attachments/assets/879667b7-9ef6-4cca-b252-20a6dacf4c1a)
 ![Task 2 -Dashboard (1)](https://github.com/user-attachments/assets/11d6c5dd-c52a-40d8-8bd4-79faa4cea592)
+![Task 2-Dashboard(2)](https://github.com/user-attachments/assets/879667b7-9ef6-4cca-b252-20a6dacf4c1a)
+
 
